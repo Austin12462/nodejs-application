@@ -4,7 +4,7 @@
   "description": "This Project explains all Node JS examples",
   "main": "app.js",
   "publishConfig": {
-    "registry": "http://172.31.11.201:8081/repository/atb-app/"
+    "registry": "http://172.31.18.225:8081/repository/atb-app/"
   },
   "scripts": {
     "server": "http-server -c-1 -p 9999",
